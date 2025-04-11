@@ -422,7 +422,7 @@
         <div class="news-section">
             <h2 data-lang="zh">服务器新闻快讯(不定时更新)</h2>
             <h2 data-lang="en" style="display: none;">Server News Flash</h2>
-            <p data-lang="zh">目前服务器的白名单以添加完成,存档也以更换,目前正在试运行(运行时间2周)</p>
+            <p data-lang="zh">目前服务器的白名单已添加完成,存档也以更换,目前正在试运行(运行时间2周)</p>
             <p data-lang="en" style="display: none;">Due to the frequent appearance of 666JJY (a server - crashing person), the server owner has decided to implement a whitelist system and is gradually replacing the game save and the server's properties.</p>
         </div>
 
