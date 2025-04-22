@@ -516,13 +516,13 @@
 <div class="contact-section">
     <h2 data-lang="zh">联系我们</h2>
     <h2 data-lang="en" style="display: none;">Contact Us</h2>
-    <p data-lang="zh">工作邮箱：daqi.zhan.2030@students.avenueschina.cn，nature.gao.2030@students.avenueschina.cn,william.sima.2030@students.avenueschina.cn</p>
-    <p data-lang="en" style="display: none;">Work Email: daqi.zhan.2030@students.avenueschina.cn,nature.gao.2030@students.avenueschina.cn,
+    <p data-lang="zh">工作邮箱：nature.gao.2030@students.avenueschina.cn,william.sima.2030@students.avenueschina.cn</p>
+    <p data-lang="en" style="display: none;">Work Email: nature.gao.2030@students.avenueschina.cn,
         william.sima.2030@students.avenueschina.cn</p>
     <p data-lang="zh">个人邮箱：william20120210@163.com,nature.minecraftwrold@gmail.com</p>
     <p data-lang="en" style="display: none;">Personal Email: william20120210@163.com,nature.minecraftwrold@gmail.com</p>
-    <p data-lang="zh">B站搜索：狂笑的猫酱学长</p>
-    <p data-lang="en" style="display: none;">Search on Bilibili:狂笑的猫酱学长</p>
+    <p data-lang="zh">B站搜索：Lovegood-_</p>
+    <p data-lang="en" style="display: none;">Search on Bilibili:Lovegood-_</p>
 </div>
 </div>
 <!-- 底部区域 -->
