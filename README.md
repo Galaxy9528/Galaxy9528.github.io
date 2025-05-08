@@ -521,15 +521,15 @@
         william.sima.2030@students.avenueschina.cn</p>
     <p data-lang="zh">个人邮箱：william20120210@163.com,nature.minecraftwrold@gmail.com</p>
     <p data-lang="en" style="display: none;">Personal Email: william20120210@163.com,nature.minecraftwrold@gmail.com</p>
-    <p data-lang="zh">B站搜索：Lovegood-_</p>
-    <p data-lang="en" style="display: none;">Search on Bilibili:Lovegood-_</p>
+    <p data-lang="zh">B站搜索：(暂时没定官方号）</p>
+    <p data-lang="en" style="display: none;">Search on Bilibili:(not decided yet)</p>
 </div>
 </div>
 <!-- 底部区域 -->
 <footer class="bg-gray-900 text-white py-8">
     <div class="container mx-auto text-center">
-        <p data-lang="zh">&copy; 2025 Minecraft纯净服务器. 保留所有权利.</p>
-        <p data-lang="en" style="display: none;">&copy; 2025 Minecraft Pure Server. All rights reserved.</p>
+        <p data-lang="zh">&copy; 2025 William2012 保留所有权利.</p>
+        <p data-lang="en" style="display: none;">&copy; 2025 William2012 All rights reserved.</p>
         <div class="flex justify-center space-x-4 mt-4">
             <a href="#" target="_blank" rel="noopener noreferrer" data-lang="zh">隐私政策</a>
             <a href="#" target="_blank" rel="noopener noreferrer" data-lang="en" style="display: none;">Privacy Policy</a>
